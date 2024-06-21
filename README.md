@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Oduola Ayobami Andrew
+
+- 🔭 I’m currently working on A startup (secret)
+- 🌱 I’m currently learning Machine Learning
+-  How to reach me: ayobamioduola13@gmail.com
+-  😄 Pronouns: he/him
+-  ⚡ Fun fact: I'm just so passionate about technology
+
+## Check out my YouTube channel
+https://www.youtube.com/channel/UCFhzfZOfmXXRqcQHPGPYOqQ
 
 <!--
 **Andrew-oduola/Andrew-oduola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
