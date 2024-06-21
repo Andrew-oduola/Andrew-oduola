@@ -9,6 +9,11 @@
 ## Check out my YouTube channel
 https://www.youtube.com/channel/UCFhzfZOfmXXRqcQHPGPYOqQ
 
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!--
 **Andrew-oduola/Andrew-oduola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
