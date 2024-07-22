@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Machine Learning
+- ⚡ I'm a Django Developer 
 -  How to reach me: ayobamioduola13@gmail.com
 -  😄 Pronouns: he/him
 -  ⚡ Fun fact: I'm just so passionate about technology
