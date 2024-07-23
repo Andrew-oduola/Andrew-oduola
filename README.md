@@ -20,9 +20,9 @@ https://www.youtube.com/channel/UCFhzfZOfmXXRqcQHPGPYOqQ
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Andrew-oduola&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Andrew-oduola&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-oduola&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrew-oduola&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andrew-oduola&theme=dark&border_radius=5)](https://git.io/streak-stats)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-oduola&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
