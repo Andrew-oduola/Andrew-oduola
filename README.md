@@ -24,7 +24,8 @@ https://www.youtube.com/channel/UCFhzfZOfmXXRqcQHPGPYOqQ
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andrew-oduola&theme=dark&border_radius=5)](https://git.io/streak-stats)<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-oduola&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
+## 🏆 Time spent coding since June 21 2024
+[![wakatime](https://wakatime.com/badge/user/2d6293bb-a11a-49a4-87e5-9aa14c13bf03.svg)](https://wakatime.com/@2d6293bb-a11a-49a4-87e5-9aa14c13bf03)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
