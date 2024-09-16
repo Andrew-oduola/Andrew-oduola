@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Oduola Ayobami Andrew
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Machine Learning
+<!--- 🌱 I’m currently learning Machine Learning -->
 - ⚡ I'm a Django Developer 
 -  How to reach me: ayobamioduola13@gmail.com
 -  😄 Pronouns: he/him
