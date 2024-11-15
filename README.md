@@ -5,7 +5,7 @@
 - ⚡ I'm a Django Developer 
 -  How to reach me: ayobamioduola13@gmail.com
 -  😄 Pronouns: he/him
--  ⚡ Fun fact: I'm just so passionate about technology and problem solving
+-  ⚡ Fun fact: I'm just so passionate about technology and problem-solving
 
 ### 🛠️ Languages and Tools
 <div>
