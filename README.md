@@ -38,6 +38,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andrew-oduola&theme=dark&border_radius=5)](https://git.io/streak-stats)<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-oduola&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Andrew-oduola&theme=dark)](https://git.io/streak-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
