@@ -42,7 +42,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Andrew-oduola)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Andrew-oduola"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Andrew-oduola"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
