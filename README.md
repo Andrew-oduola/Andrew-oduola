@@ -40,6 +40,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Andrew-oduola&theme=dark)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Andrew-oduola)](https://git.io/streak-stats)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
