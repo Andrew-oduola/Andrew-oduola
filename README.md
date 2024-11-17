@@ -12,8 +12,12 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-line-wordmark.svg" title="Django Rest framework" alt="Django Rest Framework"  width="80" height="80">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title = "Numpy" alt = "Django Rest Framework" width="80", height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title = "Numpy" alt = "Numpy" width="80", height="80"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" title = "Streamlit" alt = "Streamlit" width="80", height="80"/>&nbsp;
+
+
 </div>
+
 
 ## 🌐 Connect with Me
 <div id="badges" align="center">
