@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Andrew O.A
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on shoplit (An E-commerce store API)
 <!--- 🌱 I’m currently learning Machine Learning -->
 - ⚡ I'm a Django Developer 
 -  How to reach me: ayobamioduola13@gmail.com
