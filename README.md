@@ -46,7 +46,7 @@
 
 ### When I'm not coding I'm reading 
 
-
+Coding is a life style.
 
 
 ### ✍️ Random Dev Quote
