@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Andrew O.A
 
-- 🔭 I’m currently working on ..
+- 🔭 I’m currently working on code alpha intern projects
 
 🌱 I’m currently learning AI and Machine Learning
 - ⚡ I'm a Django Developer 
