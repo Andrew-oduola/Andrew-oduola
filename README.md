@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Andrew O.A
 
-- 🔭 I’m currently working on code alpha intern projects
+- 🔭 I’m currently working on ....
 
 🌱 I’m currently learning AI and Machine Learning
 - ⚡ I'm a Django Developer 
@@ -40,7 +40,7 @@
 
 
 ## 📊 GitHub Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrew-oduola&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/><br>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Andrew-oduola&theme=dark)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-oduola&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
