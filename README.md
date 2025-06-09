@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Andrew O.A</h1>
 
 <p align="center">
-🚀 Tech Enthusiast | 💻 Backend Engineer | 🧠 AI & ML Learner | 🔧 Problem Solver
+ 💻 Backend Engineer | 🧠 AI & ML | 🔧 Problem Solver
 </p>
 
 ---
