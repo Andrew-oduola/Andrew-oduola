@@ -11,7 +11,7 @@
 - 🌱 Currently learning **Artificial Intelligence** and **Machine Learning**
 - 💡 Skilled in **API development**, **automation**, **web scraping**, and **data handling**
 - ⚡ Proficient in Django & Django REST Framework for real-world apps
-- 📬 Reach me: **ayobamioduola13@gmail.com**
+- 📬 Reach me: **andrewoduola@gmail.com**
 - 😄 Pronouns: **he/him**
 - 🤓 Fun fact: I'm very passionate about tech, AI, and solving real-life problems with code.
 
