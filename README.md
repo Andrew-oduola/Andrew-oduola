@@ -77,6 +77,10 @@ Here are some of my notable Django projects:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-oduola&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
+<p>
+ <img src="https://www.codewars.com/users/Andrew-oduola/badges/large" alt="Codewar Badges"/>
+</p>
+
 ---
 
 ### 🎥 My YouTube Channel
