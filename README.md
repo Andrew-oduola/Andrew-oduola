@@ -79,7 +79,7 @@ Here are some of my notable Django projects:
 
 
 <p align="center">
-CodeWar 
+CodeWar Badge 
  <img src="https://www.codewars.com/users/Andrew-oduola/badges/large" alt="Codewar Badges"/>
 </p>
 
