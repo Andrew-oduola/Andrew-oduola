@@ -70,13 +70,12 @@ Here are some of my notable Django projects:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Andrew-oduola&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-oduola&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Andrew-oduola&theme=dark" alt="GitHub Streak" />
+</p>
 
 <p align="center">
 CodeWar Badge 
