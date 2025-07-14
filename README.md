@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Andrew .A. Oduola</h1>
 
 <p align="center">
- 💻 Backend Engineer | 🧠 AI & ML | 🔧 Problem Solver
+ 💻 Backend Engineer | 🧠 AI & ML | 🔧 Problem Solver | Innovator
 </p>
 
 ---
