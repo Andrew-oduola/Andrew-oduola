@@ -21,7 +21,7 @@
 
 Here are some of my notable Django projects:
 
-1. **[Shoplit](https://github.com/Andrew-oduola/shoplit)** - An Ecommerce API [Live link](https://shoplit.onrender.com/swagger-ui/)
+1. **[Shoplit](https://github.com/Andrew-oduola/shoplit)** - An Ecommerce API ([Live link](https://shoplit.onrender.com/swagger-ui/))
 2. **[Job Board API](https://github.com/Andrew-oduola/codealpha_job_board_platform)** - Job Board where jobs are listed and users can apply for jobs
 3. **[Event Registration and Management API](https://github.com/Andrew-oduola/codeAlpha_event_registration_system_django)** - Backend API system to manage events and allow registrations
 4. **[Restaurant Management System API](https://github.com/Andrew-oduola/codealpha_restaurant_management_system)** — A backend System to manage restaurant orders, reservations, tables, scheduling, inventory, payments, and more.
