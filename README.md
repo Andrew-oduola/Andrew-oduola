@@ -22,10 +22,11 @@
 Here are some of my notable Django projects:
 
 1. **[Shoplit](https://github.com/Andrew-oduola/shoplit)** - An Ecommerce API ([Live link](https://shoplit.onrender.com/swagger-ui/))
-2. **[Job Board API](https://github.com/Andrew-oduola/codealpha_job_board_platform)** - Job Board where jobs are listed and users can apply for jobs
-3. **[Event Registration and Management API](https://github.com/Andrew-oduola/codeAlpha_event_registration_system_django)** - Backend API system to manage events and allow registrations
-4. **[Restaurant Management System API](https://github.com/Andrew-oduola/codealpha_restaurant_management_system)** — A backend System to manage restaurant orders, reservations, tables, scheduling, inventory, payments, and more.
-5. **LearnXcess:** - Study tool for quizzes, flashcards, studying, scheduling, integrated with Google Calendar.
+2. **[Job Board API](https://github.com/Andrew-oduola/codealpha_job_board_platform)** - Job Board where jobs are listed and users can apply for jobs ([Live link](https://codealpha-job-board-platform.onrender.com/docs/))
+3.  **Article Subscription Platform** - A subscrption platform with different plans using PayPal ([Live link](https://subplatform-7jr3.onrender.com/))
+4. **[Event Registration and Management API](https://github.com/Andrew-oduola/codeAlpha_event_registration_system_django)** - Backend API system to manage events and allow registrations
+5. **[Restaurant Management System API](https://github.com/Andrew-oduola/codealpha_restaurant_management_system)** — A backend System to manage restaurant orders, reservations, tables, scheduling, inventory, payments, and more.
+6. **LearnXcess:** - Study tool for quizzes, flashcards, studying, scheduling, integrated with Google Calendar.
 
 
 ### 🛠️ Tech Stack & Tools
