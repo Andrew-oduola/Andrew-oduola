@@ -9,7 +9,7 @@
 ### 🔍 About Me
 - 🎯 Focused on building **backend systems** that are scalable, secure, and impactful
 - 🌱 Currently learning **Artificial Intelligence** and **Machine Learning**
-- 💡 Skilled in **Backend Engineering**, **API development**, **automation**, **web scraping**, and **data handling**
+- 💡 Skilled in **Backend Engineering**, **API development & integration**, **automation**, **web scraping**, and **data handling**
 - ⚡ Proficient in Django & Django REST Framework for real-world apps
 - 📬 Reach me: **andrewoduola@gmail.com**
 - 😄 Pronouns: **he/him**
