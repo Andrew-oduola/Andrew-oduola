@@ -31,7 +31,7 @@ Here are some of my notable Django projects:
 ---
 
 ### 🛢 Database Schemas
-1. **[Ecommerce API (Shoplit)](https://drawsql.app/teams/andrew-56/diagrams/ecommere-api)**
+1. **[Ecommerce DB Schema (Shoplit)](https://drawsql.app/teams/andrew-56/diagrams/ecommerce-api-andrew-oduola)**
 
 ### 🛠️ Tech Stack & Tools
 
