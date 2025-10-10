@@ -28,6 +28,10 @@ Here are some of my notable Django projects:
 5. **[Restaurant Management System API](https://github.com/Andrew-oduola/codealpha_restaurant_management_system)** — A backend System to manage restaurant orders, reservations, tables, scheduling, inventory, payments, and more.
 6. **LearnXcess:** - Study tool for quizzes, flashcards, studying, scheduling, integrated with Google Calendar.
 
+---
+
+### 🛢 Database Schemas
+1. **[Ecommerce API (Shoplit)](https://drawsql.app/teams/andrew-56/diagrams/ecommere-api)**
 
 ### 🛠️ Tech Stack & Tools
 
