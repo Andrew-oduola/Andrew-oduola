@@ -70,6 +70,7 @@ Here are some of my notable Django projects:
 
 ### 📈 GitHub Stats
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrew-oduola&show_icons=true&theme=highcontrast&locale=en" alt="DavidTimi1" /></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-oduola&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
