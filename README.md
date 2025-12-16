@@ -1,124 +1,332 @@
-<h1 align="center">Hi there 👋, I'm Andrew .A. Oduola</h1>
+<div align="center">
 
-<p align="center">
- 💻 Backend Engineer | 🧠 AI & ML | 🔧 Problem Solver | Innovator 💡
-</p>
+# 👨‍💻 Andrew A. Oduola
 
----
+### Backend Engineer | API Architect | Problem Solver
 
-### 🔍 About Me
-- 🎯 Focused on building **backend systems** that are scalable, secure, and impactful
-- 🌱 Currently learning ...
-- 💡 Skilled in **Backend Engineering**, **API development & integration**, **automation**, **web scraping**, and **data handling**
-- ⚡ Proficient in Django & Django REST Framework for real-world apps
-- 📬 Reach me: **andrewoduola@gmail.com**
-- 😄 Pronouns: **he/him**
-- 🤓 Fun fact: I'm very passionate about tech, AI, and solving real-life problems with code.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-o-a-507694234/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewoduola@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFhzfZOfmXXRqcQHPGPYOqQ)
+[![WakaTime](https://wakatime.com/badge/user/2d6293bb-a11a-49a4-87e5-9aa14c13bf03.svg?style=for-the-badge)](https://wakatime.com/@2d6293bb-a11a-49a4-87e5-9aa14c13bf03)
 
----
+<img src="https://komarev.com/ghpvc/?username=Andrew-oduola&style=for-the-badge&color=0e75b6" alt="Profile views"/>
 
-### 🚀 Django Projects
-
-Here are some of my notable Django projects:
-
-1. **[Shoplit](https://github.com/Andrew-oduola/shoplit)** - An Ecommerce API ([Live link](https://shoplit.onrender.com/swagger-ui/))
-2. **[Job Board API](https://github.com/Andrew-oduola/codealpha_job_board_platform)** - Job Board where jobs are listed and users can apply for jobs ([Live link](https://codealpha-job-board-platform.onrender.com/docs/))
-3.  **Article Subscription Platform** - A subscrption platform with different plans using PayPal ([Live link](https://subplatform-7jr3.onrender.com/))
-4. **[Event Registration and Management API](https://github.com/Andrew-oduola/codeAlpha_event_registration_system_django)** - Backend API system to manage events and allow registrations
-5. **[Restaurant Management System API](https://github.com/Andrew-oduola/codealpha_restaurant_management_system)** — A backend System to manage restaurant orders, reservations, tables, scheduling, inventory, payments, and more.
-6. **LearnXcess:** - Study tool for quizzes, flashcards, studying, scheduling, integrated with Google Calendar.
-
----
-
-### 🛢 Database Schemas
-1. **[Ecommerce DB Schema (Shoplit)](https://drawsql.app/teams/andrew-56/diagrams/ecommerce-api-andrew-oduola)**
-
-### 🛠️ Tech Stack & Tools
-
-#### 💻 **Core Stack – Backend Engineering**
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-line-wordmark.svg" title="DRF" alt="Django REST" width="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" title="Heroku" alt="Heroku" width="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50"/>&nbsp;
 </div>
 
-#### 🧠 **AI & ML**
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="50"/>&nbsp;
-</div>
+---
 
-#### 🔧 **Automation, Scripting & Tools**
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" title="Streamlit" alt="Streamlit" width="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Streamlit" alt="Streamlit" width="50"/>&nbsp;
-</div>
+## 🎯 Professional Summary
 
-#### 🌐 **Other Interests**
-- 🕸️ Web Scraping with `BeautifulSoup`, `Selenium`, and `Scrapy`
-- 🔁 Task Automation using Python scripts
-- 🧪 Experimenting with AI-powered tools for education & productivity
+Backend engineer specializing in **scalable API development** and **system architecture** using Django and Django REST Framework. I build robust, secure backend systems that power real-world applications, with expertise in database optimization, RESTful API design, and cloud deployment.
+
+```python
+class BackendEngineer:
+    def __init__(self):
+        self.name = "Andrew A. Oduola"
+        self.role = "Backend Engineer"
+        self.location = "Lagos, Nigeria"
+        self.core_skills = [
+            "API Development & Integration",
+            "Database Design & Optimization", 
+            "System Architecture",
+            "Cloud Deployment (AWS, Heroku, Render)"
+        ]
+        self.current_focus = "Building production-ready backend systems"
+    
+    def say_hi(self):
+        print("Let's build something amazing together!")
+```
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Technical Expertise
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrew-oduola&show_icons=true&theme=highcontrast&locale=en" alt="DavidTimi1" /></p>
+### **Core Backend Stack**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-oduola&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+<br>Django
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-line-wordmark.svg" width="48" height="48" alt="DRF" />
+<br>DRF
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Andrew-oduola&theme=dark" alt="GitHub Streak" />
-</p>
+### **Cloud & DevOps**
 
-<p align="center">
-CodeWar Badge 
- <img src="https://www.codewars.com/users/Andrew-oduola/badges/large" alt="Codewar Badges"/>
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" width="48" height="48" alt="Heroku" />
+<br>Heroku
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
+<br>Nginx
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+</tr>
+</table>
+
+### **Additional Technologies**
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/celery/celery-original.svg" width="48" height="48" alt="Celery" />
+<br>Celery
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium" />
+<br>Selenium
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+<br>NumPy
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<br>Pandas
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn" />
+<br>Scikit-Learn
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit" />
+<br>Streamlit
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎥 My YouTube Channel
-<a href="https://www.youtube.com/channel/UCFhzfZOfmXXRqcQHPGPYOqQ">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-</a>
+## 🚀 Featured Projects
 
-I create tutorials on Python, Django, and building real-world apps. Subscribe for weekly content that helps you **level up your dev skills**!
+### **Production Backend Systems**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🛒 [Shoplit - E-commerce API](https://github.com/Andrew-oduola/shoplit)
+**Production-ready e-commerce backend system**
+
+- 🔧 Built with Django REST Framework
+- 💳 Payment processing integration
+- 📦 Advanced inventory management
+- 🔐 JWT authentication & authorization
+- 📊 [Database Schema](https://drawsql.app/teams/andrew-56/diagrams/ecommerce-api-andrew-oduola)
+
+**[🌐 Live Demo](https://shoplit.onrender.com/swagger-ui/)** | **[📖 API Docs](https://shoplit.onrender.com/swagger-ui/)**
+
+</td>
+<td width="50%">
+
+#### 💼 [Job Board Platform API](https://github.com/Andrew-oduola/codealpha_job_board_platform)
+**Complete job listing & application system**
+
+- 📝 Job posting & management
+- 👥 User profile & application tracking
+- 🔍 Advanced search & filtering
+- 📧 Email notification system
+- 📱 RESTful API design
+
+**[🌐 Live Demo](https://codealpha-job-board-platform.onrender.com/docs/)** | **[📖 API Docs](https://codealpha-job-board-platform.onrender.com/docs/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🍽️ [Restaurant Management System](https://github.com/Andrew-oduola/codealpha_restaurant_management_system)
+**Comprehensive restaurant operations platform**
+
+- 🍕 Order management & tracking
+- 📅 Table reservation system
+- 📦 Inventory management
+- 💰 Payment processing
+- 👨‍💼 Staff scheduling
+
+**[📖 View Repository](https://github.com/Andrew-oduola/codealpha_restaurant_management_system)**
+
+</td>
+<td width="50%">
+
+#### 🎟️ [Event Management API](https://github.com/Andrew-oduola/codeAlpha_event_registration_system_django)
+**Event registration & management backend**
+
+- 📆 Event creation & scheduling
+- ✅ Registration & ticketing system
+- 👥 Attendee management
+- 📊 Analytics & reporting
+- 🔔 Automated notifications
+
+**[📖 View Repository](https://github.com/Andrew-oduola/codeAlpha_event_registration_system_django)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 💳 [Subscription Platform](https://subplatform-7jr3.onrender.com/)
+**Multi-tier subscription management**
+
+- 💰 PayPal payment integration
+- 📊 Multiple subscription tiers
+- 🔄 Automated billing cycles
+- 📈 Subscription analytics
+- 👤 User dashboard
+
+**[🌐 Live Demo](https://subplatform-7jr3.onrender.com/)**
+
+</td>
+<td width="50%">
+
+#### 📚 LearnXcess
+**Educational platform with smart scheduling**
+
+- 📝 Quiz & flashcard system
+- 📅 Study scheduling
+- 🔗 Google Calendar integration
+- 📊 Progress tracking
+- 🎯 Personalized learning paths
+
+**[🔜 Coming Soon]**
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💼 Connect with Me
+## 💼 Core Competencies
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/andrew-o-a-507694234/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
-   &nbsp;
-   <a href="https://wakatime.com/@2d6293bb-a11a-49a4-87e5-9aa14c13bf03">
-      <img src="https://wakatime.com/badge/user/2d6293bb-a11a-49a4-87e5-9aa14c13bf03.svg" alt="wakatime">
-   </a>
+
+| **Backend Development** | **API Design** | **DevOps** |
+|:---:|:---:|:---:|
+| Django & DRF | RESTful Architecture | AWS Deployment |
+| Database Design | API Documentation | Docker Containerization |
+| ORM Optimization | Swagger/OpenAPI | CI/CD Pipelines |
+| Authentication/Authorization | Rate Limiting | Server Configuration |
+
+| **Additional Skills** | **Tools & Practices** | **Focus Areas** |
+|:---:|:---:|:---:|
+| Web Scraping | Git Version Control | Scalable Systems |
+| Task Automation | Agile Methodologies | Security Best Practices |
+| Data Processing | Testing (Unit/Integration) | Performance Optimization |
+| AI/ML Integration | API Testing (Postman) | Clean Code Architecture |
+
 </div>
 
-<h4 align="center">🏆 Time Spent Coding Since June 21, 2024</h4>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Andrew-oduola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Andrew-oduola&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-oduola&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
+
+### 🏆 Coding Stats
+
+<img src="https://github-profile-trophy.vercel.app/?username=Andrew-oduola&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+### 💻 Time Invested in Code (Since June 21, 2024)
+
+[![wakatime](https://wakatime.com/badge/user/2d6293bb-a11a-49a4-87e5-9aa14c13bf03.svg)](https://wakatime.com/@2d6293bb-a11a-49a4-87e5-9aa14c13bf03)
+
+### ⚔️ CodeWars Progress
+
+<img src="https://www.codewars.com/users/Andrew-oduola/badges/large" alt="CodeWars Badge"/>
+
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+## 📺 Content Creation
+
+<div align="center">
+
+### [🎥 My YouTube Channel](https://www.youtube.com/channel/UCFhzfZOfmXXRqcQHPGPYOqQ)
+
+**Weekly tutorials on Python, Django, and Backend Development**
+
+Topics covered: Django REST Framework, API Development, Database Design, Deployment Strategies, Best Practices
+
+*Subscribe for in-depth tutorials that will level up your backend engineering skills!*
+
+</div>
 
 ---
 
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=Andrew-oduola&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always interested in collaborating on innovative backend projects, discussing system architecture, or helping fellow developers. Feel free to reach out!
+
+**📧 Email:** andrewoduola@gmail.com  
+**💼 LinkedIn:** [andrew-o-a-507694234](https://www.linkedin.com/in/andrew-o-a-507694234/)  
+**🐙 GitHub:** [@Andrew-oduola](https://github.com/Andrew-oduola)  
+**📺 YouTube:** [My Channel](https://www.youtube.com/channel/UCFhzfZOfmXXRqcQHPGPYOqQ)
+
+---
+
+### 💡 Current Focus
+
+```python
+current_goals = {
+    "learning": ["Microservices Architecture", "GraphQL APIs", "Kubernetes"],
+    "building": ["Scalable SaaS Backend", "Real-time Applications"],
+    "exploring": ["Cloud Native Development", "System Design Patterns"]
+}
+```
+
+---
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+---
+
+**⭐ Open to backend engineering opportunities and interesting collaborations!**
+
+</div>
