@@ -17,7 +17,7 @@
 
 ## 🎯 Professional Summary
 
-Backend engineer specializing in **scalable API development** and **system architecture** using Django and Django REST Framework. I build robust, secure backend systems that power real-world applications, with expertise in database optimization, RESTful API design, and cloud deployment.
+Backend engineer specializing in **scalable API development** and **system architecture** using, FastAPI Django and Django REST Framework. I build robust, secure backend systems that power real-world applications, with expertise in database optimization, RESTful API design, and cloud deployment.
 
 ```python
 class BackendEngineer:
