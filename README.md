@@ -262,7 +262,7 @@ class BackendEngineer:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Andrew-oduola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Andrew-oduola&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Andrew-odula&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-oduola&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
 
